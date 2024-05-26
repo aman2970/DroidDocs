@@ -10,6 +10,9 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -58,6 +61,7 @@
       <workItem from="1715510550406" duration="10343000" />
       <workItem from="1716585817391" duration="947000" />
       <workItem from="1716639699194" duration="5413000" />
+      <workItem from="1716732001988" duration="747000" />
     </task>
     <servers />
   </component>
